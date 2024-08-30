@@ -1,0 +1,16 @@
+/* index */
+
+#title {
+   font-size: 46px;
+   text-decoration: line-through;
+   color: rgb(35, 194, 75);
+}
+.list {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title,.list {
+    font-style: italic;
+    letter-spacing: 12px;
+}
